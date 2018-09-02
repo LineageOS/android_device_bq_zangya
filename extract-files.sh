@@ -18,7 +18,7 @@
 
 set -e
 
-DEVICE=zangya
+DEVICE=zangyapro
 VENDOR=bq
 
 # Load extract_utils and do some sanity checks

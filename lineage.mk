@@ -6,21 +6,21 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 
 # Vendor blobs
-$(call inherit-product-if-exists, vendor/bq/zangya/zangya-vendor.mk)
+$(call inherit-product-if-exists, vendor/bq/zangyapro/zangyapro-vendor.mk)
 
 # Device
-$(call inherit-product, device/bq/zangya/device.mk)
+$(call inherit-product, device/bq/zangyapro/device.mk)
 
 # Device identifiers
-PRODUCT_DEVICE := zangya
-PRODUCT_NAME := lineage_zangya
+PRODUCT_DEVICE := zangyapro
+PRODUCT_NAME := lineage_zangyapro
 PRODUCT_BRAND := bq
-PRODUCT_MODEL := Aquaris_X2
+PRODUCT_MODEL := Aquaris_X2_Pro
 PRODUCT_MANUFACTURER := BQ
-PRODUCT_RELEASE_NAME := zangya
+PRODUCT_RELEASE_NAME := zangyapro
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-        PRODUCT_NAME=zangya \
-        PRIVATE_BUILD_DESC="zangya_bq-user 8.1.0 OPM1.171019.026 587 release-keys"
+        PRODUCT_NAME=zangyapro \
+        PRIVATE_BUILD_DESC="zangyapro_bq-user 8.1.0 OPM1.171019.026 588 release-keys"
 
-BUILD_FINGERPRINT := bq/zangya_bq/zangya_sprout:8.1.0/OPM1.171019.026/587:user/release-keys
+BUILD_FINGERPRINT := bq/zangyapro_bq/zangyapro_sprout:8.1.0/OPM1.171019.026/588:user/release-keys

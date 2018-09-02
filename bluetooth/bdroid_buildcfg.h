@@ -23,7 +23,7 @@
 #ifndef _BDROID_BUILDCFG_H
 #define _BDROID_BUILDCFG_H
 
-#define BTM_DEF_LOCAL_NAME "BQ Aquaris X2"
+#define BTM_DEF_LOCAL_NAME "BQ Aquaris X2 Pro"
 
 #define BLE_VND_INCLUDED   TRUE
 #define BTIF_HF_WBS_PREFERRED TRUE
