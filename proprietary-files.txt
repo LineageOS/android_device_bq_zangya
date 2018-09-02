@@ -528,6 +528,14 @@ vendor/lib/libwvhidl.so
 vendor/etc/scve/facereco/gModel.dat
 vendor/lib/libcdsprpc.so
 vendor/lib/libsdsprpc.so
+vendor/lib/rfsa/adsp/libFastRPC_AUE_Forward_skel.so
+vendor/lib/rfsa/adsp/libFastRPC_UTF_Forward_800h_skel.so
+vendor/lib/rfsa/adsp/libapps_mem_heap.so
+vendor/lib/rfsa/adsp/libdspCV_skel.so
+vendor/lib/rfsa/adsp/libedge_smooth_skel.so
+vendor/lib/rfsa/adsp/libexternal_dog_skel.so
+vendor/lib/rfsa/adsp/libfastcvadsp.so
+vendor/lib/rfsa/adsp/libfastcvadsp_skel.so
 vendor/lib/rfsa/adsp/capi_v2_aptX_Classic.so
 vendor/lib/rfsa/adsp/libadsp_fd_skel.so
 vendor/lib/rfsa/adsp/libadsp_hvx_add_constant.so
@@ -598,7 +606,9 @@ vendor/bin/xtra-daemon
 vendor/etc/flp.conf
 vendor/etc/gps.conf
 vendor/etc/izat.conf
+vendor/etc/lowi.conf
 vendor/etc/sap.conf
+vendor/etc/xtwifi.conf
 vendor/bin/hw/vendor.qti.gnss@1.0-service
 vendor/etc/init/vendor.qti.gnss@1.0-service.rc
 vendor/lib/vendor.qti.gnss@1.0_vendor.so
@@ -821,6 +831,7 @@ vendor/lib64/libvpplibrary.so
 vendor/firmware/libpn553_fw.so
 
 # Perf
+vendor/bin/energy-awareness
 vendor/bin/hw/vendor.qti.hardware.perf@1.0-service
 vendor/etc/init/vendor.qti.hardware.perf@1.0-service.rc
 vendor/lib/libperfgluelayer.so
