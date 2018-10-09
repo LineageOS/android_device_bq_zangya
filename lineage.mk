@@ -15,8 +15,8 @@ $(call inherit-product, device/bq/zangyapro/device.mk)
 PRODUCT_DEVICE := zangyapro
 PRODUCT_NAME := lineage_zangyapro
 PRODUCT_BRAND := bq
-PRODUCT_MODEL := Aquaris_X2_Pro
-PRODUCT_MANUFACTURER := BQ
+PRODUCT_MODEL := Aquaris X2 Pro
+PRODUCT_MANUFACTURER := bq
 PRODUCT_RELEASE_NAME := zangyapro
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
