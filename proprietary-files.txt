@@ -907,7 +907,6 @@ vendor/bin/dpmQmiMgr
 vendor/bin/ipacm-diag
 vendor/bin/netmgrd
 vendor/bin/pd-mapper
-vendor/bin/port-bridge
 vendor/bin/qti
 vendor/bin/rmt_storage
 vendor/bin/tftp_server
