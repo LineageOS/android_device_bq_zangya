@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings"
+    "repository": "android_device_bq_sdm660-common",
+    "target_path": "device/bq/sdm660-common"
   }
 ]
