@@ -18,7 +18,7 @@
 
 set -e
 
-DEVICE=zangyapro
+DEVICE=zangya
 VENDOR=bq
 
 INITIAL_COPYRIGHT_YEAR=2017

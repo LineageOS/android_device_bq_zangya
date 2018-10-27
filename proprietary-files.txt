@@ -550,10 +550,9 @@ vendor/lib64/libcdsprpc.so
 vendor/lib64/libsdsprpc.so
 
 # Fingerprint
-vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service
 vendor/bin/hw/android.hardware.biometrics.fingerprint.fpc@2.1-service
 vendor/bin/qfp-daemon
-vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc
+vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc|968db6b1c28f430067b02dce1cfd707e011345cf
 vendor/lib64/com.fingerprints.extension@1.0.so
 vendor/lib64/hw/fingerprint.default.so
 vendor/lib64/libgf_ca.so
