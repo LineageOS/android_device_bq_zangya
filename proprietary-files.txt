@@ -813,6 +813,7 @@ vendor/lib64/libvpplibrary.so
 
 # NFC
 vendor/bin/nqnfcinfo
+vendor/lib/libpn553_fw.so
 
 # Perf
 vendor/bin/energy-awareness
