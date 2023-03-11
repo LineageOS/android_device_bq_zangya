@@ -20,3 +20,6 @@ include device/bq/sdm660-common/BoardConfigCommon.mk
 
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth
 TARGET_KERNEL_CONFIG := lineageos_zangya_defconfig
+
+# Prop
+TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
