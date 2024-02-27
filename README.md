@@ -17,4 +17,4 @@ Display | 1080 x 2160 pixels, 5.65" LTPS IPS LCD
 Rear Camera  | 12 MP main sensor / 5MP depth sensor
 Front Camera | 8 MP
 
-![BQ Aquaris X2](https://storage.googleapis.com/statics.bq.com/bqcom/static/landing_gama_x2/bq_compo_aquaris_x2.png "BQ Aquaris X2")
+![BQ Aquaris X2](https://raw.githubusercontent.com/LineageOS/lineage_wiki/main/images/devices/zangya.png "BQ Aquaris X2")
